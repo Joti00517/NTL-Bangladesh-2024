@@ -15,4 +15,4 @@ Disaster impact assessment
 🛰️ Data Source:
 NOAA VIIRS DNB (Day/Night Band) Annual Composite
 🛠️ Processed in Google Earth Engine
-https://github.com/Joti00517/NTL-Bangladesh-2024/blob/d921bb357cdf27aeadbfd3802ec9f158e2d87f72/NTL_2024_01.jpg
+![image alt] (https://github.com/Joti00517/NTL-Bangladesh-2024/blob/d921bb357cdf27aeadbfd3802ec9f158e2d87f72/NTL_2024_01.jpg)
